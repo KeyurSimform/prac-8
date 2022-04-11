@@ -1,0 +1,21 @@
+.UserDataContainer{
+    position: relative;
+    background-color: white;
+    margin: 5% 20% 5% 10%;
+    /* min-height: px; */
+    min-height: 500px;
+    height: auto;
+    /* min-width: 1000px; */
+    width: 925px;
+    border-radius: 15px;
+
+    /* margin-right: 25%; */
+}
+
+.reqfailed{
+    display: flex;
+    justify-content:center;
+    align-self:center;
+    margin-top: 8rem;
+    color: red              ;
+}
